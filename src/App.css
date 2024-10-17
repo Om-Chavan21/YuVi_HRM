@@ -1,0 +1,4 @@
+/* Add this to your global CSS file */
+.Toastify__toast-container {
+  z-index: 1301; /* Ensure this is higher than MUI modal z-index (1300) */
+}
