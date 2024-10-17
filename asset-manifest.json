@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/YuVi_HRM.git/static/css/main.098fe3b6.css",
-    "main.js": "/YuVi_HRM.git/static/js/main.f6bdd248.js",
+    "main.js": "/YuVi_HRM.git/static/js/main.fac343d8.js",
     "index.html": "/YuVi_HRM.git/index.html",
     "main.098fe3b6.css.map": "/YuVi_HRM.git/static/css/main.098fe3b6.css.map",
-    "main.f6bdd248.js.map": "/YuVi_HRM.git/static/js/main.f6bdd248.js.map"
+    "main.fac343d8.js.map": "/YuVi_HRM.git/static/js/main.fac343d8.js.map"
   },
   "entrypoints": [
     "static/css/main.098fe3b6.css",
-    "static/js/main.f6bdd248.js"
+    "static/js/main.fac343d8.js"
   ]
 }
