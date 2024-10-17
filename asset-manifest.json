@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/YuVi_HRM/static/css/main.098fe3b6.css",
-    "main.js": "/YuVi_HRM/static/js/main.fac343d8.js",
+    "main.js": "/YuVi_HRM/static/js/main.ab96db77.js",
     "index.html": "/YuVi_HRM/index.html",
     "main.098fe3b6.css.map": "/YuVi_HRM/static/css/main.098fe3b6.css.map",
-    "main.fac343d8.js.map": "/YuVi_HRM/static/js/main.fac343d8.js.map"
+    "main.ab96db77.js.map": "/YuVi_HRM/static/js/main.ab96db77.js.map"
   },
   "entrypoints": [
     "static/css/main.098fe3b6.css",
-    "static/js/main.fac343d8.js"
+    "static/js/main.ab96db77.js"
   ]
 }
