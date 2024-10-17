@@ -13,7 +13,7 @@
 //NGROK Temp
 
 const API_BASE_URL =
-  "https://55ab-2409-4090-2013-603-1318-838-141-39d3.ngrok-free.app";
+  "https://55ab-2409-4090-2013-603-1318-838-141-39d3.ngrok-free.app/api";
 
 export const API_ENDPOINTS = {
   MEMBERS: `${API_BASE_URL}/members`,
